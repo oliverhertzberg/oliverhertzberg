@@ -4,13 +4,13 @@ I’m a recent graduate of Hive Helsinki (42 Network), where I immersed myself i
 
 My capstone project, Transcendence, is a full-stack web application built with TypeScript, Node.js, and React — a rewarding challenge that brought together everything I learned at Hive, from backend logic to frontend UI/UX.
 
-###🔍 What I’m up to:
+🔍 What I’m up to:
 
     🎯 Actively seeking a Junior Software Developer role (available immediately)
 
     💻 📚 Completing the Full Stack Open course by the University of Helsinki (React, Redux, Node.js, MongoDB, GraphQL, TypeScript)
 
-###🔧 Skills & Tools:
+🔧 Skills & Tools:
 
     Languages: C, C++, JavaScript, TypeScript, Node.js, React
 
